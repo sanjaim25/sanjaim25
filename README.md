@@ -1,16 +1,14 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║         CLASSIFIED — AGENT PROFILE / CLEARANCE LEVEL α      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+════════════════════════════════════════╗
+  ▶▶  SANJAI-MOHAN ·  DEVELOPER ██████ ║▶▶
+  ════════════════════════════════════════╝
+              ooOOOoo  ooOOOoo
 
 # AGENT: SANJAI-M25
 ### Designation · AI & Full-Stack Developer
 ### Status · `🟢 ACTIVELY SEEKING INTERNSHIPS & PLACEMENTS`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Initializing+Generative+AI+modules...;Computer+Vision+stack+online...;Full-Stack+deployment+ready...;Accepting+mission+briefs+%F0%9F%9A%80)](https://github.com/sanjaim25)
 
 </div>
 
