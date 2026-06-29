@@ -1,38 +1,168 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sanjai%20Mohan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Vision%20%26%20GenAI&descAlignY=56&descSize=18" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12&text=SANJAI%20MOHAN&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=AI%20%26%20ML%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=75&descSize=18&animation=fadeIn" />
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/sanjaim25">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+Building+AI+systems+that+actually+ship...;👁️+Teaching+machines+to+see+and+understand...;🚀+Turning+research+papers+into+real+apps...;🎯+Open+to+Internships+%26+Campus+Placements!" />
-  </a>
-</div>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%A4%96+Building+AI+systems+that+actually+work...;%F0%9F%91%81%EF%B8%8F+Teaching+machines+to+see+and+understand...;%F0%9F%9A%80+Turning+research+papers+into+real+apps...;%F0%9F%8E%AF+Open+to+Internships+%26+Campus+Placements!)](https://github.com/sanjaim25)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjaim25&style=flat-square&color=7c3aed&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/sanjaim25?style=flat-square&color=7c3aed&label=Followers" />
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" />
 </div>
 
 ---
 
-## 👋 About Me
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=sanjaim25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+
+### 👋 Hey, I'm Sanjai
+
+- 🎓 **B.Tech — AI & Data Science**, Coimbatore, India
+- 🧠 Obsessed with **Generative AI, Computer Vision & NLP**
+- 🔭 Currently building a **book-themed interactive portfolio** in React + GSAP
+- 🤖 I run LLMs **locally** with Ollama — no API bills, full control
+- 🎯 Actively seeking **AI/ML internships & campus placements**
+- 💡 Believer in: *ship fast, learn faster, document always*
+- 📬 Open to collabs, internship referrals & interesting AI conversations
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Weapons of Choice
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Google Gemini](https://img.shields.io/badge/Gemini_Vision-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3-7B3FE4?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 What I've Built
+
+> Six deployed AI applications — each one solving a real problem.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ AI Caption Generator
+**Gemini Vision · Flask · HTML/CSS**
+
+Feed it any image — it returns **5 caption styles** in under 2 seconds. Descriptive, poetic, social-ready, SEO-optimized, or minimal. One-click copy. Zero friction.
+
+*What it proves:* Multimodal API integration + thoughtful UX design
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/ai_caption_generator)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 AI Quote Generator
+**LLaMA 3 · Ollama · Flask**
+
+Fully **offline** generative AI — no cloud, no API key, no cost. LLaMA 3 runs local via Ollama. Enter any topic, get a hand-crafted motivational quote in 3 seconds.
+
+*What it proves:* Local LLM deployment + on-device inference
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/ai_quote_generator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Credit Card Fraud Detection
+**Scikit-Learn · Pandas · Jupyter**
+
+End-to-end ML pipeline on real financial data. Tackled severe **class imbalance with SMOTE**, benchmarked 4 classifiers, and optimized for recall — because missing a fraud costs more than a false alarm.
+
+*What it proves:* Full ML lifecycle from EDA to evaluation
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/credit_card_fraud_detection)
+
+</td>
+<td width="50%" valign="top">
+
+### 😶 Real-Time Emotion Detection
+**OpenCV · Deep Learning · CNN**
+
+Live webcam feed → **7 emotion classes** classified in real time. CNN trained on FER-2013, integrated with OpenCV for face localization. Because machines should understand feelings.
+
+*What it proves:* Computer Vision pipeline + real-time inference
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/emotion_detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 NetPulse
+**JavaScript · CSS · HTML**
+
+A clean, responsive network monitoring dashboard. Real-time visual feedback, instant status clarity — proof that good engineering includes good design.
+
+*What it proves:* Frontend engineering + clean UI thinking
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/netpulse)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Image Enhancement Website
+**Flask · Pillow · OpenCV**
+
+Browser-based AI image enhancement — sharpen, denoise, and correct contrast with one click. No desktop app. No setup. Just upload and enhance.
+
+*What it proves:* Image processing + Flask web deployment
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/image-enhancement-website)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaim25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=8" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanjaim25&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=ffffff&dates=888888)](https://github.com/sanjaim25)
+
+</div>
+
+---
+
+## 🧠 What Drives Me
 
 ```python
 class SanjaiMohan:
     role       = "AI & Full-Stack Developer"
-    education  = "B.Tech — AI & Data Science  |  Coimbatore, India 🇮🇳"
+    education  = "B.Tech — AI & Data Science, Coimbatore 🇮🇳"
     seeking    = ["Internships", "Campus Placements", "AI Research Collabs"]
-    stack      = ["Python", "Flask", "React", "Gemini", "LLaMA 3", "OpenCV"]
+    stack      = ["Python", "Flask", "React", "Gemini", "LLaMA", "OpenCV"]
 
     shipped = {
-        "AI Caption Generator"    : "Gemini Vision → 5 caption styles in < 2s",
+        "AI Caption Generator"    : "Gemini Vision → 5 caption styles in <2s",
         "AI Quote Generator"      : "LLaMA 3 on-device, zero cloud dependency",
         "Fraud Detection"         : "SMOTE + ensemble classifiers on real data",
-        "Emotion Detection"       : "7-class CNN via webcam at real-time fps",
+        "Emotion Detection"       : "Real-time 7-class CNN via webcam at 24fps",
     }
 
     currently_building = "Book-themed interactive portfolio — React + GSAP"
@@ -45,146 +175,13 @@ class SanjaiMohan:
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=a78bfa)
-![Google Gemini](https://img.shields.io/badge/Gemini-0f172a?style=for-the-badge&logo=google&logoColor=a78bfa)
-![LLaMA 3](https://img.shields.io/badge/LLaMA_3-0f172a?style=for-the-badge&logo=meta&logoColor=a78bfa)
-![Ollama](https://img.shields.io/badge/Ollama-0f172a?style=for-the-badge&logoColor=a78bfa)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=a78bfa)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=a78bfa)
-
-**Full-Stack**
-
-![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=a78bfa)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=a78bfa)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=a78bfa)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=a78bfa)
-
-</div>
-
----
-
-## 🚀 Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ AI Caption Generator
-`Gemini Vision` · `Flask` · `HTML/CSS`
-
-Multimodal app that generates **5 distinct caption styles** — descriptive, poetic, social-ready, SEO-optimized, minimal — in under 2 seconds. One-click copy for seamless use.
-
-> Multimodal API integration + thoughtful UX
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25/ai_caption_generator)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 AI Quote Generator
-`LLaMA 3` · `Ollama` · `Flask`
-
-Fully **offline** generative AI. Runs LLaMA 3 locally via Ollama — no API costs, no cloud dependency. Enter any topic, receive a hand-crafted motivational quote in 3 seconds.
-
-> Local LLM deployment + on-device inference
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25/ai_quote_generator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Credit Card Fraud Detection
-`Scikit-Learn` · `Pandas` · `Jupyter`
-
-End-to-end ML pipeline addressing severe class imbalance using **SMOTE**, benchmarking 4 classifiers, and optimizing for recall — because missing fraud is always more costly.
-
-> Full ML lifecycle from EDA to evaluation
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25/credit_card_fraud_detection)
-
-</td>
-<td width="50%" valign="top">
-
-### 😶 Real-Time Emotion Detection
-`OpenCV` · `CNN` · `FER-2013`
-
-Classifies **7 emotion classes** in real-time from a live webcam feed. CNN trained on FER-2013 with OpenCV for face localization. Robust CV pipeline + efficient real-time inference.
-
-> Computer Vision pipeline + real-time inference
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25/emotion_detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 NetPulse
-`JavaScript` · `CSS` · `HTML`
-
-Responsive network monitoring dashboard with real-time visual feedback and instant status clarity. Clean frontend engineering meets thoughtful UI/UX design.
-
-> Frontend engineering + clean UI thinking
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25/netpulse)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Image Enhancement Website
-`Flask` · `Pillow` · `OpenCV`
-
-Browser-based AI image enhancement platform. Sharpen, denoise, and correct contrast with a single click — no installs, no complex setup. Just upload and enhance.
-
-> Image processing + Flask web deployment
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f172a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25/image-enhancement-website)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaim25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&hide=contribs&rank_icon=percentile" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaim25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e2e8f0&langs_count=7" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjaim25&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=64748b&stroke=0f172a" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaim25&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=a78bfa" />
-</div>
-
----
-
 ## 🗺️ Skill Radar
 
 ```
-DOMAIN               LEVEL          TOOLS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Generative AI    ▓▓▓▓▓▓▓▓░░  80%   Gemini · LLaMA · Ollama
-Computer Vision  ▓▓▓▓▓▓▓░░░  70%   OpenCV · CNN · FER-2013
-ML Engineering   ▓▓▓▓▓▓▓░░░  73%   Scikit-learn · SMOTE · Pandas
-NLP & Prompting  ▓▓▓▓▓▓░░░░  65%   LlamaIndex · Transformers
-Python / Flask   ▓▓▓▓▓▓▓▓░░  82%   REST APIs · Web deployment
-React / Next.js  ▓▓▓▓▓▓░░░░  62%   Framer Motion · Tailwind
+Generative AI  ████████░░  80%   ██ Python          ████████░░  82%
+Computer Vision ███████░░░  70%   ██ Flask / APIs    ███████░░░  72%
+NLP & Prompts  ██████░░░░  65%   ██ Scikit-learn    ███████░░░  73%
+React / JS     ██████░░░░  60%   ██ OpenCV          ███████░░░  70%
 ```
 
 ---
@@ -195,20 +192,23 @@ React / Next.js  ▓▓▓▓▓▓░░░░  62%   Framer Motion · Tailwind
 Status        : 🟢 Actively interviewing
 Available for : AI/ML Internships · Full-Stack AI Roles · Research Projects
 Open to       : Freelance collabs · Open-source contributions · Mentorship
-Building now  : Book-themed interactive portfolio — React + GSAP
-Learning      : RAG with LlamaIndex · Transformer fine-tuning
 Location      : Coimbatore, India (IST · UTC+5:30)
-Response time : Within 24 hours
+Response time : Usually within 24 hours
 ```
 
 ---
 
+## 🤝 Let's Build Something
+
 <div align="center">
 
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-0f172a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/sanjaim25)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/sanjaim25)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanjaim25&style=for-the-badge&color=00FF88&labelColor=0D1117&label=VISITORS)](https://github.com/sanjaim25)
 
-*If something here sparked an idea — drop a ⭐. If you want to build something — open an Issue.*
+*If something here was useful — drop a ⭐. If you want to collaborate — open an Issue.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's+build+intelligent+things.&fontSize=18&fontColor=ffffff&fontAlignY=68&animation=fadeIn" />
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Let%27s+build+intelligent+things.&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
