@@ -1,3 +1,5 @@
+# Sanjai Mohan's GitHub Profile
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12&text=SANJAI%20MOHAN&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=AI%20%26%20ML%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=75&descSize=18&animation=fadeIn" />
@@ -12,9 +14,9 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=sanjaim25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+## 👋 About Me
 
-### 👋 Hey, I'm Sanjai
+I'm Sanjai Mohan, an **AI & Data Science B.Tech student** with an insatiable curiosity for building intelligent systems that solve real-world problems. My journey is fueled by a passion for **Generative AI, Computer Vision, and Natural Language Processing**. I thrive on transforming complex research into practical, deployed applications, always seeking to push the boundaries of what machines can achieve.
 
 - 🎓 **B.Tech — AI & Data Science**, Coimbatore, India
 - 🧠 Obsessed with **Generative AI, Computer Vision & NLP**
@@ -27,8 +29,9 @@
 <br clear="right"/>
 
 ---
+## 🛠️ My Tech Arsenal
 
-## 🛠️ Weapons of Choice
+My toolkit is a blend of cutting-edge AI frameworks and robust full-stack technologies, enabling me to bring innovative ideas to life. Here are some of the key technologies I wield:
 
 <div align="center">
 
@@ -49,107 +52,78 @@
 </div>
 
 ---
+## 🚀 My Impactful Creations
 
-## 🚀 What I've Built
+I don't just build; I craft solutions that demonstrate tangible impact and technical prowess. Here's a glimpse into some of my deployed AI applications, each designed to solve a real problem and showcase a unique skill set.
 
-> Six deployed AI applications — each one solving a real problem.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ AI Caption Generator
-**Gemini Vision · Flask · HTML/CSS**
-
-Feed it any image — it returns **5 caption styles** in under 2 seconds. Descriptive, poetic, social-ready, SEO-optimized, or minimal. One-click copy. Zero friction.
-
-*What it proves:* Multimodal API integration + thoughtful UX design
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/ai_caption_generator)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 AI Quote Generator
-**LLaMA 3 · Ollama · Flask**
-
-Fully **offline** generative AI — no cloud, no API key, no cost. LLaMA 3 runs local via Ollama. Enter any topic, get a hand-crafted motivational quote in 3 seconds.
-
-*What it proves:* Local LLM deployment + on-device inference
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/ai_quote_generator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Credit Card Fraud Detection
-**Scikit-Learn · Pandas · Jupyter**
-
-End-to-end ML pipeline on real financial data. Tackled severe **class imbalance with SMOTE**, benchmarked 4 classifiers, and optimized for recall — because missing a fraud costs more than a false alarm.
-
-*What it proves:* Full ML lifecycle from EDA to evaluation
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/credit_card_fraud_detection)
-
-</td>
-<td width="50%" valign="top">
-
-### 😶 Real-Time Emotion Detection
-**OpenCV · Deep Learning · CNN**
-
-Live webcam feed → **7 emotion classes** classified in real time. CNN trained on FER-2013, integrated with OpenCV for face localization. Because machines should understand feelings.
-
-*What it proves:* Computer Vision pipeline + real-time inference
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/emotion_detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 NetPulse
-**JavaScript · CSS · HTML**
-
-A clean, responsive network monitoring dashboard. Real-time visual feedback, instant status clarity — proof that good engineering includes good design.
-
-*What it proves:* Frontend engineering + clean UI thinking
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/netpulse)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Image Enhancement Website
-**Flask · Pillow · OpenCV**
-
-Browser-based AI image enhancement — sharpen, denoise, and correct contrast with one click. No desktop app. No setup. Just upload and enhance.
-
-*What it proves:* Image processing + Flask web deployment
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/image-enhancement-website)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ AI Caption Generator</h3>
+      <p><b>Gemini Vision · Flask · HTML/CSS</b></p>
+      <p>A multimodal marvel: feed it any image, and it instantly returns <b>5 distinct caption styles</b> (descriptive, poetic, social-ready, SEO-optimized, minimal) in under 2 seconds. Features one-click copy for seamless integration. This project exemplifies robust multimodal API integration and thoughtful UX design.</p>
+      <p><i>Key takeaway: Multimodal API integration + thoughtful UX design</i></p>
+      <p><a href="https://github.com/sanjaim25/ai_caption_generator" target="_blank">[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/ai_caption_generator)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 AI Quote Generator</h3>
+      <p><b>LLaMA 3 · Ollama · Flask</b></p>
+      <p>Experience the power of **fully offline generative AI**. This application runs LLaMA 3 locally via Ollama, eliminating cloud dependencies and API costs. Users can input any topic and receive a hand-crafted motivational quote in just 3 seconds. A testament to local LLM deployment and efficient on-device inference.</p>
+      <p><i>Key takeaway: Local LLM deployment + on-device inference</i></p>
+      <p><a href="https://github.com/sanjaim25/ai_quote_generator" target="_blank">[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/ai_quote_generator)</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Credit Card Fraud Detection</h3>
+      <p><b>Scikit-Learn · Pandas · Jupyter</b></p>
+      <p>An end-to-end machine learning pipeline built on real financial data. This project meticulously addresses severe **class imbalance using SMOTE**, benchmarks four different classifiers, and optimizes for recall—because in fraud detection, missing a fraudulent transaction is far more costly than a false alarm. It showcases a complete ML lifecycle from exploratory data analysis to rigorous evaluation.</p>
+      <p><i>Key takeaway: Full ML lifecycle from EDA to evaluation</i></p>
+      <p><a href="https://github.com/sanjaim25/credit_card_fraud_detection" target="_blank">[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/credit_card_fraud_detection)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😶 Real-Time Emotion Detection</h3>
+      <p><b>OpenCV · Deep Learning · CNN</b></p>
+      <p>A captivating computer vision project that classifies **7 emotion classes** in real-time from a live webcam feed. Utilizing a Convolutional Neural Network (CNN) trained on the FER-2013 dataset and integrated with OpenCV for precise face localization, this application demonstrates the power of machines to understand human emotions. It highlights a robust computer vision pipeline and efficient real-time inference.</p>
+      <p><i>Key takeaway: Computer Vision pipeline + real-time inference</i></p>
+      <p><a href="https://github.com/sanjaim25/emotion_detection" target="_blank">[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/emotion_detection)</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 NetPulse</h3>
+      <p><b>JavaScript · CSS · HTML</b></p>
+      <p>A testament to clean frontend engineering, NetPulse is a responsive network monitoring dashboard. It provides real-time visual feedback and instant status clarity, proving that exceptional engineering is incomplete without thoughtful design. This project underscores strong frontend development skills and a keen eye for UI/UX.</p>
+      <p><i>Key takeaway: Frontend engineering + clean UI thinking</i></p>
+      <p><a href="https://github.com/sanjaim25/netpulse" target="_blank">[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/netpulse)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Image Enhancement Website</h3>
+      <p><b>Flask · Pillow · OpenCV</b></p>
+      <p>A user-friendly, browser-based AI image enhancement platform. It allows users to sharpen, denoise, and correct image contrast with a single click, all without the need for desktop applications or complex setups. Simply upload and enhance. This project showcases practical image processing capabilities integrated with a Flask web deployment.</p>
+      <p><i>Key takeaway: Image processing + Flask web deployment</i></p>
+      <p><a href="https://github.com/sanjaim25/image-enhancement-website" target="_blank">[![Repo](https://img.shields.io/badge/→_View_Repo-0D1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/sanjaim25/image-enhancement-website)</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
+## 📊 GitHub Insights & Activity
 
-## 📊 Stats & Activity
+My GitHub profile is a testament to continuous learning and consistent contribution. These dynamic statistics offer a real-time glimpse into my coding journey and dedication.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaim25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaim25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=8" alt="Sanjai Mohan's Top Languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanjaim25&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=ffffff&dates=888888)](https://github.com/sanjaim25)
 
 </div>
 
 ---
+## 🧠 What Drives Me: A Developer's Manifesto
 
-## 🧠 What Drives Me
+My approach to AI and development is encapsulated in this programmatic overview, reflecting my core values and current focus.
 
 ```python
 class SanjaiMohan:
@@ -174,8 +148,9 @@ class SanjaiMohan:
 ```
 
 ---
+## 🗺️ Skill Radar: My Proficiency Map
 
-## 🗺️ Skill Radar
+This radar visually represents my expertise across various domains, highlighting areas of strength and continuous growth.
 
 ```
 Generative AI  ████████░░  80%   ██ Python          ████████░░  82%
@@ -185,8 +160,9 @@ React / JS     ██████░░░░  60%   ██ OpenCV          █�
 ```
 
 ---
+## 📡 Current Status: Always Evolving
 
-## 📡 Current Status
+My professional status and availability at a glance:
 
 ```yaml
 Status        : 🟢 Actively interviewing
@@ -197,8 +173,9 @@ Response time : Usually within 24 hours
 ```
 
 ---
+## 🤝 Let's Connect & Collaborate
 
-## 🤝 Let's Build Something
+I'm always eager to connect with fellow innovators, collaborate on exciting projects, or discuss the latest in AI. Feel free to reach out!
 
 <div align="center">
 
