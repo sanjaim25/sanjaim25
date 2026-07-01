@@ -1,8 +1,6 @@
 <div align="center">
 
-# Sanjai Mohan
-
-### AI & ML Developer · Full-Stack Builder
+<img src="assets/header.svg" alt="Sanjai Mohan — AI & ML Developer, Full-Stack Builder" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=680&lines=Building+AI+systems+that+solve+real+problems.;Teaching+machines+to+see+and+understand.;Turning+research+papers+into+shipped+applications.;Open+to+Internships+%26+Campus+Placements.)](https://github.com/sanjaim25)
 
@@ -175,6 +173,8 @@ Response time : Within 24 hours
 
 If something here was useful, a ⭐ is appreciated. If you want to collaborate, open an Issue or reach out directly.
 
-**Let's build intelligent things.**
+<br/>
+
+<img src="assets/footer.svg" alt="Let's build intelligent things" width="100%" />
 
 </div>
