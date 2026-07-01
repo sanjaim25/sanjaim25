@@ -1,0 +1,26 @@
+<svg width="100%" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#132018"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="footerTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="100%" stop-color="#4dd0ff"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M0,40 C200,10 400,60 600,35 C800,10 1000,55 1200,30 L1200,110 L0,110 Z" fill="url(#footerGrad)">
+    <animate attributeName="d"
+      values="M0,40 C200,10 400,60 600,35 C800,10 1000,55 1200,30 L1200,110 L0,110 Z;
+              M0,35 C200,55 400,15 600,45 C800,60 1000,20 1200,45 L1200,110 L0,110 Z;
+              M0,40 C200,10 400,60 600,35 C800,10 1000,55 1200,30 L1200,110 L0,110 Z"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="75" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="600" fill="url(#footerTextGrad)" letter-spacing="1">
+    Let's build intelligent things.
+  </text>
+</svg>
