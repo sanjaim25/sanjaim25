@@ -1,8 +1,27 @@
+# Sanjai Mohan - AI & ML Developer | Full-Stack Builder
+
+## Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [🛠️ Tech Stack](#️-tech-stack)
+  - [Languages & Frameworks](#languages--frameworks)
+  - [AI / ML Tools](#ai--ml-tools)
+- [💡 Projects](#-projects)
+  - [AI Caption Generator](#ai-caption-generator)
+  - [AI Quote Generator](#ai-quote-generator)
+  - [Credit Card Fraud Detection](#credit-card-fraud-detection)
+  - [Real-Time Emotion Detection](#real-time-emotion-detection)
+  - [NetPulse](#netpulse)
+  - [Image Enhancement Website](#image-enhancement-website)
+- [📊 GitHub Stats](#-github-stats)
+- [⏳ Currently](#-currently)
+- [🤝 Connect](#-connect)
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=12&text=SANJAI%20MOHAN&fontSize=56&fontColor=ffffff&fontAlignY=55&desc=AI%20%26%20ML%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=75&descSize=17&animation=fadeIn" />
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=680&lines=Building+AI+systems+that+solve+real+problems.;Teaching+machines+to+see+and+understand.;Turning+research+papers+into+shipped+applications.;Open+to+Internships+%26+Campus+Placements.)](https://github.com/sanjaim25)
 
@@ -10,7 +29,7 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I'm a final-year **B.Tech student in AI & Data Science** from Coimbatore, India, building end-to-end AI applications across generative AI, computer vision, and NLP. I care about shipping things that work — not just demos that look impressive.
 
@@ -22,9 +41,9 @@ I'm a final-year **B.Tech student in AI & Data Science** from Coimbatore, India,
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -33,7 +52,7 @@ I'm a final-year **B.Tech student in AI & Data Science** from Coimbatore, India,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML Tools**
+### AI / ML Tools
 
 ![Gemini](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3-7B3FE4?style=flat-square&logo=meta&logoColor=white)
@@ -44,7 +63,7 @@ I'm a final-year **B.Tech student in AI & Data Science** from Coimbatore, India,
 
 ---
 
-## Projects
+## 💡 Projects
 
 Six deployed applications, each built around a concrete problem.
 
@@ -96,7 +115,7 @@ Demonstrates image processing pipelines and Flask web deployment.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -109,7 +128,7 @@ Demonstrates image processing pipelines and Flask web deployment.
 
 ---
 
-## Currently
+## ⏳ Currently
 
 ```yaml
 Status        : Actively interviewing
@@ -121,7 +140,20 @@ Response time : Within 24 hours
 
 ---
 
-## Connect
+## 🚀 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect
+
 
 <div align="center">
 
