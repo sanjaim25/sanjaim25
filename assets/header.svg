@@ -1,0 +1,62 @@
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#131a2a"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="50%" stop-color="#4dd0ff"/>
+      <stop offset="100%" stop-color="#00FF88"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#4dd0ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00FF88" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bgGrad)"/>
+
+  <!-- decorative animated wave line, bottom -->
+  <path d="M0,170 C150,140 300,190 450,165 C600,140 750,185 900,160 C1050,140 1150,175 1200,160"
+        fill="none" stroke="url(#waveGrad)" stroke-width="3">
+    <animate attributeName="d"
+      values="M0,170 C150,140 300,190 450,165 C600,140 750,185 900,160 C1050,140 1150,175 1200,160;
+              M0,160 C150,190 300,140 450,175 C600,190 750,150 900,175 C1050,190 1150,150 1200,170;
+              M0,170 C150,140 300,190 450,165 C600,140 750,185 900,160 C1050,140 1150,175 1200,160"
+      dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- faint particle dots -->
+  <circle cx="80" cy="40" r="2" fill="#00FF88" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1120" cy="55" r="2.5" fill="#4dd0ff" opacity="0.5">
+    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="30" r="1.8" fill="#00FF88" opacity="0.5">
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="150" r="1.6" fill="#4dd0ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- main title -->
+  <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="52" font-weight="700" fill="url(#textGrad)" letter-spacing="4">
+    SANJAI MOHAN
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="400" fill="#ffffff" opacity="0.85" letter-spacing="1">
+    AI &amp; ML Developer&#160;&#160;|&#160;&#160;Full-Stack Builder
+  </text>
+
+  <!-- top and bottom hairlines to match your existing section dividers -->
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#30363d" stroke-width="2"/>
+  <line x1="0" y1="198" x2="1200" y2="198" stroke="#30363d" stroke-width="2"/>
+</svg>
