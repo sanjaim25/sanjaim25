@@ -10,13 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a final-year **B.Tech student in AI & Data Science** from Coimbatore, India, building end-to-end AI applications across generative AI, computer vision, and NLP. I care about shipping things that work — not just demos that look impressive.
+Final-year **B.Tech (AI & Data Science)** student in Coimbatore, India. I build AI systems end-to-end — and ship over demo.
 
-- 🎓 B.Tech — AI & Data Science, Coimbatore
-- 🔭 Currently building a book-themed interactive portfolio in React + GSAP
-- 🤖 I run LLMs locally with Ollama — full control, no API costs
-- 🎯 Actively seeking AI/ML internships and campus placements
-- 💡 Principle: *ship fast, learn faster, document always*
+**🌐 Portfolio:** [sanjai25.netlify.app](https://sanjai25.netlify.app) &nbsp;|&nbsp; **🎯 Status:** Open to AI/ML internships & campus placements
 
 ---
 
@@ -26,25 +22,53 @@ I'm a final-year **B.Tech student in AI & Data Science** from Coimbatore, India,
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### AI / ML Tools
 
 ![Gemini](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3-7B3FE4?style=flat-square&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Motion & Animation
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
 ## 💡 Projects
 
-Six deployed applications, each built around a concrete problem. **Click a title to expand.**
+Actively building across generative AI, computer vision, and full-stack web. **Click a title to expand.**
+
+<details open>
+<summary><b>🖌️ EnhanceX</b> — FastAPI · Next.js 14 · Real-ESRGAN · GFPGAN <i>(in progress)</i></summary>
+<br>
+
+A from-the-ground-up AI image enhancement platform — upscaling with Real-ESRGAN and face restoration with GFPGAN, wrapped in a FastAPI backend and a Next.js 14 frontend. Currently rebuilding backend internals: GPU detection, a Celery task queue, WebSocket progress updates, and API authentication, alongside a full UI overhaul.
+
+**Demonstrates:** production-grade ML serving architecture and async job processing.
+
+</details>
+
+<details>
+<summary><b>🧭 Skill RPG AI</b> — Flask · RAG · ChromaDB · Ollama (LLaMA 3) <i>(in progress)</i></summary>
+<br>
+
+A RAG-powered learning roadmap generator — describe a skill you want to learn, and it retrieves and synthesizes a structured path using a local LLaMA 3 model and a ChromaDB vector store. Being rebuilt from scratch through a staged, multi-phase plan aimed at portfolio-ready quality.
+
+**Demonstrates:** retrieval-augmented generation and local vector search pipelines.
+
+</details>
 
 <details>
 <summary><b>🖼️ AI Caption Generator</b> — Gemini Vision · Flask · HTML/CSS</summary>
@@ -107,14 +131,12 @@ A responsive network monitoring dashboard with real-time visual feedback and ins
 </details>
 
 <details>
-<summary><b>🎨 Image Enhancement Website</b> — Flask · Pillow · OpenCV</summary>
+<summary><b>📖 Interactive Portfolio Site</b> — React · TypeScript · GSAP · Framer Motion · Lenis <i>(in progress)</i></summary>
 <br>
 
-Browser-based image enhancement — sharpen, denoise, and correct contrast in one click. No desktop app, no local setup required.
+A book-themed personal portfolio built for Awwwards-tier visual quality — six distinct page transitions (shatter/split, curtain wipe, zoom-morph, rotate-flip, glitch cut, slide-stack), Lenis inertia scroll, and cursor physics on a dark indigo/cyan visual system.
 
-**Demonstrates:** image processing pipelines and Flask web deployment.
-
-**[→ View Repository](https://github.com/sanjaim25/image-enhancement-website)**
+**Demonstrates:** advanced frontend motion design and interaction engineering.
 
 </details>
 
