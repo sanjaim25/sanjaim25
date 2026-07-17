@@ -145,8 +145,8 @@ A book-themed personal portfolio built for Awwwards-tier visual quality — six 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/sanjaim25/sanjaim25/output/github-contribution-grid-snake-dark.svg" alt="snake animation eating my GitHub contribution graph" />
+
 
 </div>
 
