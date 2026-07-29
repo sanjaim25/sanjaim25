@@ -12,7 +12,7 @@
 
 Final-year **B.Tech (AI & Data Science)** student in Coimbatore, India. I build AI systems end-to-end — and ship over demo.
 
-**🌐 Portfolio:** [sanjai25.netlify.app](https://sanjai25.netlify.app) &nbsp;|&nbsp; **🎯 Status:** Open to AI/ML internships & campus placements
+**🌐 Portfolio:** [sanjai25.vercel.app](https://sanjai25.vercel.app) &nbsp;|&nbsp; **🎯 Status:** Open to AI/ML internships & campus placements
 
 ---
 
